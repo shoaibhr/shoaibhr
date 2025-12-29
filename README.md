@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibhr&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true)
+![Shoaibhr's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibhr&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibhr&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
